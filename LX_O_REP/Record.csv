@@ -1,0 +1,3 @@
+Index,LX,Type,M,COTS,Test_ID,S_Path,S_File_Name,S_Sheet,S_Start_Cell_Range,S_End_Cell_Range,D_Path,D_File_Name,D_Sheet,D_Start_Cell_Range,D_End_Cell_Range
+1,,HDC,tester_name,,,,,,,,,.,Report1.xlsx,Sheet1,A1,
+1,,VAL,123.45,,,,,,,,,.,Report1.xlsx,Sheet1,A2,
